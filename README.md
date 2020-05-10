@@ -10,3 +10,5 @@ v2.-against new locally created branch, ver02
 v2.1 - updated in github editor
 
 v 2.2 - updated locally, final update for ver02
+
+v 3.0 - contributed by hanger-on
